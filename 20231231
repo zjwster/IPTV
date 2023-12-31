@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
+https://cfss.cc/ds/ysp/qp.php?id=cctv1&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
+https://cfss.cc/ds/ysp/qp.php?id=cctv2&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3综艺
+https://cfss.cc/ds/ysp/qp.php?id=cctv3&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4中文国际
+https://cfss.cc/ds/ysp/qp.php?id=cctv4&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
+https://cfss.cc/ds/ysp/qp.php?id=cctv5&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事
+https://cfss.cc/ds/ysp/qp.php?id=cctv5p&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6电影
+https://cfss.cc/ds/ysp/qp.php?id=cctv6&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV-7国防军事
+https://cfss.cc/ds/ysp/qp.php?id=cctv7&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8电视剧
+https://cfss.cc/ds/ysp/qp.php?id=cctv8&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9纪录
+https://cfss.cc/ds/ysp/qp.php?id=cctv9&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10科教
+https://cfss.cc/ds/ysp/qp.php?id=cctv10&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11戏曲
+https://cfss.cc/ds/ysp/qp.php?id=cctv11&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV-12社会与法
+https://cfss.cc/ds/ysp/qp.php?id=cctv12&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13新闻
+https://cfss.cc/ds/ysp/qp.php?id=cctv13&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14少儿
+https://cfss.cc/ds/ysp/qp.php?id=cctv14&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15音乐
+https://cfss.cc/ds/ysp/qp.php?id=cctv15&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
+https://cfss.cc/ds/ysp/qp.php?id=cctv16&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17农业农村
+https://cfss.cc/ds/ysp/qp.php?id=cctv17&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png",CCTV兵器科技
+https://cfss.cc/ds/ysp/qp.php?id=bqkj&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",CCTV第一剧场
+https://cfss.cc/ds/ysp/qp.php?id=dyjc&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png",CCTV怀旧剧场
+https://cfss.cc/ds/ysp/qp.php?id=hjjc&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png",CCTV风云剧场
+https://cfss.cc/ds/ysp/qp.php?id=fyjc&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png",CCTV风云音乐
+https://cfss.cc/ds/ysp/qp.php?id=fyyy&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",CCTV风云足球
+https://cfss.cc/ds/ysp/qp.php?id=fyzq&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png",CCTV电视指南
+https://cfss.cc/ds/ysp/qp.php?id=dszn&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png",CCTV女性时尚
+https://cfss.cc/ds/ysp/qp.php?id=nxss&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png",CCTV央视文化精品
+https://cfss.cc/ds/ysp/qp.php?id=whjp&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png",CCTV世界地理
+https://cfss.cc/ds/ysp/qp.php?id=sjdl&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png",CCTV高尔夫网球
+https://cfss.cc/ds/ysp/qp.php?id=gefwq&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png",CCTV央视台球
+https://cfss.cc/ds/ysp/qp.php?id=ystq&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png",CCTV卫生健康
+https://cfss.cc/ds/ysp/qp.php?id=wsjk&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+https://cfss.cc/ds/ysp/qp.php?id=ahws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/beijing.png",北京卫视
+https://cfss.cc/ds/ysp/qp.php?id=bjws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/chongqing.png",重庆卫视
+https://cfss.cc/ds/ysp/qp.php?id=cqws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/dongfang.png",东方卫视
+https://cfss.cc/ds/ysp/qp.php?id=dfws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="东南卫视" tvg-logo="https://live.fanmingming.com/tv/dongnan.png",东南卫视
+https://cfss.cc/ds/ysp/qp.php?id=dnws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/guangdong.png",广东卫视
+https://cfss.cc/ds/ysp/qp.php?id=gdws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="广西卫视" tvg-logo="https://live.fanmingming.com/tv/guangxi.png",广西卫视
+https://cfss.cc/ds/ysp/qp.php?id=gxws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/guizhou.png",贵州卫视
+https://cfss.cc/ds/ysp/qp.php?id=gzws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
+https://cfss.cc/ds/ysp/qp.php?id=hinws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="河北卫视" tvg-logo="https://live.fanmingming.com/tv/hebei.png",河北卫视
+https://cfss.cc/ds/ysp/qp.php?id=hbws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/henan.png",河南卫视
+https://cfss.cc/ds/ysp/qp.php?id=hnws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/heilongjiang.png",黑龙江卫视
+https://cfss.cc/ds/ysp/qp.php?id=hljws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/hubei.png",湖北卫视
+https://cfss.cc/ds/ysp/qp.php?id=fbws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/hunan.png",湖南卫视
+https://cfss.cc/ds/ysp/qp.php?id=fnws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png",江苏卫视
+https://cfss.cc/ds/ysp/qp.php?id=jsws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="江西卫视" tvg-logo="https://live.fanmingming.com/tv/jiangxi.png",江西卫视
+https://cfss.cc/ds/ysp/qp.php?id=jxws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/liaoning.png",辽宁卫视
+https://cfss.cc/ds/ysp/qp.php?id=lnws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/shandong.png",山东卫视
+https://cfss.cc/ds/ysp/qp.php?id=sdws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/shenzhen.png",深圳卫视
+https://cfss.cc/ds/ysp/qp.php?id=szws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/sichuan.png",四川卫视
+https://cfss.cc/ds/ysp/qp.php?id=scws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="天津卫视" tvg-logo="https://live.fanmingming.com/tv/tianjin.png",天津卫视
+https://cfss.cc/ds/ysp/qp.php?id=tjws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/xinjiang.png",新疆卫视
+https://cfss.cc/ds/ysp/qp.php?id=xjws&key=51397&Cf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png",浙江卫视
+https://cfss.cc/ds/ysp/qp.php?id=zjws&key=51397&Cf.m3u8
